@@ -30,7 +30,7 @@ A modern, user-friendly personal finance management application built with React
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/OmMTelrandhe/FinanceManager
 cd project
 ```
 
